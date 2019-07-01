@@ -13,6 +13,9 @@ public class FizzBuzz {
         for (int i = 1; i < 100; i++) {
             System.out.println(fizzBuzz.fizzBuzz(i));
         }
+        for (int j = 1; j < 1000; j++) {
+            System.out.println(fizzBuzz.fizzBuzz(i));
+        }
     }
 
     public String fizzBuzz(int number) {
