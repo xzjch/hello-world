@@ -1,11 +1,11 @@
 /**
- * Created by yoichi.kikuchi on 2016/02/09.
+ * Created by hyohyo on 2019/07/02.
  */
 public class FizzBuzz {
     public static void main(String[] args) {
         String a = "abc";
         String b = "def";
-        if (a == b){
+        if (a.equals(b)){
             System.out.println("test");
         }
         FizzBuzz fizzBuzz = new FizzBuzz();
