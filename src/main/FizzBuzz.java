@@ -3,6 +3,11 @@
  */
 public class FizzBuzz {
     public static void main(String[] args) {
+        String a = "abc";
+        String b = "def";
+        if (a == b){
+            System.out.println("test");
+        }
         FizzBuzz fizzBuzz = new FizzBuzz();
 
         for (int i = 1; i < 100; i++) {
