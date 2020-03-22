@@ -1,7 +1,7 @@
 /**
  * Created by hyohyo on 2019/07/02.
  */
-public class FizzBuzz {
+public clss FizzBuzz {
     public static void main(String[] args) {
         String a = "abc";
         String b = "def";
